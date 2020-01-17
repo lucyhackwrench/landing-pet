@@ -25,7 +25,8 @@ const makeRequest = async(url = '') => {
 
 class App extends  React.Component {
   componentDidMount () {
-    makeRequest('https://lucyhackwrench.amocrm.ru/private/api/auth.php');
+    //makeRequest('https://lucyhackwrench.amocrm.ru/private/api/auth.php');
+    console.log('test');
   }
 
   render () {
