@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/landing-pet/build/static/css/main.d1b05096.chunk.css",
-    "main.js": "/landing-pet/build/static/js/main.e02a84df.chunk.js",
-    "main.js.map": "/landing-pet/build/static/js/main.e02a84df.chunk.js.map",
+    "main.js": "/landing-pet/build/static/js/main.3f6df302.chunk.js",
+    "main.js.map": "/landing-pet/build/static/js/main.3f6df302.chunk.js.map",
     "runtime-main.js": "/landing-pet/build/static/js/runtime-main.3f2054ea.js",
     "runtime-main.js.map": "/landing-pet/build/static/js/runtime-main.3f2054ea.js.map",
-    "static/js/2.d97c12cb.chunk.js": "/landing-pet/build/static/js/2.d97c12cb.chunk.js",
-    "static/js/2.d97c12cb.chunk.js.map": "/landing-pet/build/static/js/2.d97c12cb.chunk.js.map",
+    "static/js/2.1e8a2b1d.chunk.js": "/landing-pet/build/static/js/2.1e8a2b1d.chunk.js",
+    "static/js/2.1e8a2b1d.chunk.js.map": "/landing-pet/build/static/js/2.1e8a2b1d.chunk.js.map",
     "index.html": "/landing-pet/build/index.html",
-    "precache-manifest.933b67be1f015234539d5cb43ef26a96.js": "/landing-pet/build/precache-manifest.933b67be1f015234539d5cb43ef26a96.js",
+    "precache-manifest.9dca50fe632d8d9bb25ec3a576da9e7c.js": "/landing-pet/build/precache-manifest.9dca50fe632d8d9bb25ec3a576da9e7c.js",
     "service-worker.js": "/landing-pet/build/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/landing-pet/build/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.d97c12cb.chunk.js.LICENSE": "/landing-pet/build/static/js/2.d97c12cb.chunk.js.LICENSE",
+    "static/js/2.1e8a2b1d.chunk.js.LICENSE": "/landing-pet/build/static/js/2.1e8a2b1d.chunk.js.LICENSE",
     "static/media/logo.svg": "/landing-pet/build/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3f2054ea.js",
-    "static/js/2.d97c12cb.chunk.js",
+    "static/js/2.1e8a2b1d.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.e02a84df.chunk.js"
+    "static/js/main.3f6df302.chunk.js"
   ]
 }
